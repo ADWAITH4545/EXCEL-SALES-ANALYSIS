@@ -19,5 +19,5 @@ Contents:
       
 5. Sales Analysis Dashboard:
     - Representing All The Charts
-      Accordin To Pivot Tables
+      According To Pivot Tables
    
